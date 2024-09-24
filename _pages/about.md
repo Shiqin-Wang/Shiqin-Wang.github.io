@@ -19,7 +19,7 @@ If you are seeking any form of academic cooperation on nighttime scene understan
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2024</div><img src='images/IEDNet.png' alt="sym" width="100%"></div></div>
+# <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2024</div><img src='images/IEDNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Low-Light Salient Object Detection Meets the Small Size](https://ieeexplore.ieee.org/abstract/document/10658986/)
