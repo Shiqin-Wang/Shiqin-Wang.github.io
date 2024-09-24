@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/wangshiqin.jpg"
+  avatar           : "images/wangshiqin.png"
   name             : "Shiqin Wang"
   pronouns         : # example: "she/her"  
   bio              : "Remain passionate and embark on a journey across mountains and seas."
