@@ -6,8 +6,15 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-I am currently a 4nd-year PhD student of [VAI Lab](http://vai-lab.com/) at the School of Computer Science and Technology, Wuhan University of Science and Technology, extremely fortunate to be supervised by Prof. [Xin Xu](https://scholar.google.com/citations?user=DtuoAWIAAAAJ&hl=zh-CN). 
+
+I am currently a 4th-year PhD student of [VAI Lab](http://vai-lab.com/) at the School of Computer Science and Technology, Wuhan University of Science and Technology, extremely fortunate to be supervised by Prof. [Xin Xu](https://scholar.google.com/citations?user=DtuoAWIAAAAJ&hl=zh-CN). 
 
 My research interests lie in nighttime scene understanding, such as low-light salient object detection, nighttime semantic segmentation, and adverse weather semantic segmentation.
 If you are seeking any form of academic cooperation on nighttime scene understanding, please feel free to email at wangshiqin@wust.edu.cn.
