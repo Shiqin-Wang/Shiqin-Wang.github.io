@@ -19,49 +19,48 @@ If you are seeking any form of academic cooperation on nighttime scene understan
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/CDS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2024</div><img src='images/IEDNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Contributing Dimension Structure of Deep Feature for Coreset Selection](https://arxiv.org/pdf/2401.16193.pdf)
+[Low-Light Salient Object Detection Meets the Small Size](https://ieeexplore.ieee.org/abstract/document/10658986/)
 
 **Shiqin Wang**, Xin Xu*, Haoyang Chen, Kui Jiang, Zheng Wang, and Ke Tang
 
 **TETCI**, 2024
 
-[**Github**](https://github.com/ZhijingWan/contributing-dimension-structure) [**PDF**](https://arxiv.org/pdf/2401.16193.pdf) [**Poster**](https://github.com/ZhijingWan/zhijingwan.github.io/blob/main/poster/Poster_AAAI2024.pdf)
+[**Github**](https://github.com/Shiqin-Wang/LS-SOD) [**PDF**](https://ieeexplore.ieee.org/abstract/document/10658986/)
 
-- For the first time in coreset selection, we explicitly introduce information on the Contributing Dimension Structure (CDS) via the proposed CDS metric to enrich the diversity of CDS in the coreset. 
+- This paper proposes a new and realistic task, i.e., LS-SOD, which remains largely ignored in the SOD community. Further, to promote the development of the LS-SOD task, this paper proposes the first real LS-SOD dataset, i.e., LSPV, for research and evaluation. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/CDS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024 (Oral)</div><img src='images/informs01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Contributing Dimension Structure of Deep Feature for Coreset Selection](https://arxiv.org/pdf/2401.16193.pdf)
+[Informative Classes Matter: Towards Unsupervised Domain Adaptive Nighttime Semantic Segmentation](https://dl.acm.org/doi/10.1145/3581783.3611956)
 
 **Shiqin Wang**, Xin Xu*, Xianzheng Ma, Kui Jiang, and Zheng Wang
 
 **ACM MM**, 2023
 
-[**Github**](https://github.com/ZhijingWan/contributing-dimension-structure) [**PDF**](https://arxiv.org/pdf/2401.16193.pdf) [**Poster**](https://github.com/ZhijingWan/zhijingwan.github.io/blob/main/poster/Poster_AAAI2024.pdf)
+[**Github**]() [**PDF**](https://dl.acm.org/doi/10.1145/3581783.3611956)
 
-- For the first time in coreset selection, we explicitly introduce information on the Contributing Dimension Structure (CDS) via the proposed CDS metric to enrich the diversity of CDS in the coreset. 
+- This paper pioneers a new perspective from cross-domain mixed sampling exploiting informative class mining to facilitate the UDA-NSS task.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSUR 2023</div><img src='images/Taxonomy.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM 2021</div><img src='images/PIENet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Survey of Dataset Refinement for Problems in Computer Vision Datasets](https://dl.acm.org/doi/abs/10.1145/3627157)
+[Exploring Image Enhancement for Salient Object Detection in Low Light Images](https://doi.org/10.1145/3414839)
 
 Xin Xu*, **Shiqin Wang**, Zheng Wang, Xiaolong Zhang, and Ruimin Hu
 
 **TOMM**, 2021
 
-[**Github**](https://github.com/ZhijingWan/DatasetRefinement-CV)  [**PDF**](https://arxiv.org/pdf/2210.11717.pdf)
+[**PDF**](https://doi.org/10.1145/3414839)
 
-- We summarize and analyze the various problems encountered in large-scale computer vision datasets.
-- We provide a comprehensive and structured overview of recent advances in dataset refinement (data sampling, data subset selection, and active learning) for problematic computer vision datasets.
+- This paper proposes an image-enhancement-based SOD for low light images, which is critical for CV applications in low light conditions.
 </div>
 </div>
 
@@ -71,8 +70,3 @@ Xin Xu*, **Shiqin Wang**, Zheng Wang, Xiaolong Zhang, and Ruimin Hu
 # 📖 Educations
 - *2020.09 - now*, Doctoral, Wuhan University of Science and Technology, Wuhan.
 - *2016.09 - 2020.06*, Undergraduate, Wuhan University of Science and Technology, Wuhan.
-
-<a href="https://info.flagcounter.com/ktkR"><img src="https://s11.flagcounter.com/count2/ktkR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-<p style="text-align:right">Updated in Sept. 2024</p>
-<p style="text-align:right">Thanks <a href="https://github.com/RayeRen">Yi Ren</a> for this amazing homepage template.</p>
