@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Shiqin Wang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/wangshiqin.png"
+  avatar           : "wangshiqin.png"
   name             : "Shiqin Wang"
   pronouns         : # example: "she/her"  
   bio              : "Remain passionate and embark on a journey across mountains and seas."
