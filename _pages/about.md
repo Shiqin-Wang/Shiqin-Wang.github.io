@@ -6,13 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 
 I am currently a 4th-year PhD student of [VAI Lab](http://vai-lab.com/) at the School of Computer Science and Technology, Wuhan University of Science and Technology, extremely fortunate to be supervised by Prof. [Xin Xu](https://scholar.google.com/citations?user=DtuoAWIAAAAJ&hl=zh-CN). 
 
@@ -71,7 +64,7 @@ Xin Xu*, **Shiqin Wang**, Zheng Wang, Xiaolong Zhang, and Ruimin Hu
 </div>
 </div>
 
-- ``Journal of Real-Time Image Processing 2020`` [Multi-level feature fusion model-based real-time person re-identification for forensics](https://doi.org/10.1007/s11554-019-00908-4), **Shiqin Wang**, Xin Xu, Lei Liu, and Jing Tian, **Journal of Real-Time Image Processing** 2020
+``Journal of Real-Time Image Processing 2020`` [Multi-level feature fusion model-based real-time person re-identification for forensics](https://doi.org/10.1007/s11554-019-00908-4), **Shiqin Wang**, Xin Xu, Lei Liu, and Jing Tian, **Journal of Real-Time Image Processing** 2020
 
 
 # 📖 Educations
