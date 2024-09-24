@@ -26,7 +26,7 @@ If you are seeking any form of academic cooperation on nighttime scene understan
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2024</div><img src='images/IEDNet.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2024</div><img src='images/IEDNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Low-Light Salient Object Detection Meets the Small Size](https://ieeexplore.ieee.org/abstract/document/10658986/)
@@ -41,7 +41,7 @@ If you are seeking any form of academic cooperation on nighttime scene understan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024 (Oral)</div><img src='images/informs01.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024 (Oral)</div><img src='images/informs01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Informative Classes Matter: Towards Unsupervised Domain Adaptive Nighttime Semantic Segmentation](https://dl.acm.org/doi/10.1145/3581783.3611956)
@@ -56,7 +56,7 @@ If you are seeking any form of academic cooperation on nighttime scene understan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM 2021</div><img src='images/PIENet.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOMM 2021</div><img src='images/PIENet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring Image Enhancement for Salient Object Detection in Low Light Images](https://doi.org/10.1145/3414839)
@@ -71,9 +71,12 @@ Xin Xu*, **Shiqin Wang**, Zheng Wang, Xiaolong Zhang, and Ruimin Hu
 </div>
 </div>
 
-- [Multi-level feature fusion model-based real-time person re-identification for forensics](https://doi.org/10.1007/s11554-019-00908-4), **Shiqin Wang**, Xin Xu, Lei Liu, and Jing Tian, **Journal of Real-Time Image Processing** 2020
+- ``Journal of Real-Time Image Processing 2020`` [Multi-level feature fusion model-based real-time person re-identification for forensics](https://doi.org/10.1007/s11554-019-00908-4), **Shiqin Wang**, Xin Xu, Lei Liu, and Jing Tian, **Journal of Real-Time Image Processing** 2020
 
 
 # 📖 Educations
 - *2020.09 - now*, Doctoral, Wuhan University of Science and Technology, Wuhan.
 - *2016.09 - 2020.06*, Undergraduate, Wuhan University of Science and Technology, Wuhan.
+
+
+<a href="https://info.flagcounter.com/ktkR"><img src="https://s11.flagcounter.com/count2/ktkR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
